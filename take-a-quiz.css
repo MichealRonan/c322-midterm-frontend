@@ -1,0 +1,14 @@
+.quiz-selection-button {
+    display: block;
+    width: 20%;
+    padding: 10px;
+    margin-bottom: 10px;
+    background: #ececec;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.quiz-selection-button:hover {
+    background: #ddd;
+}
